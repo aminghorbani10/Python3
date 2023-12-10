@@ -1,0 +1,49 @@
+list1 = ["red", "yelow", "black" , "pink","blue", "white"]
+
+list2 = [5, 9, 2, 4, 6]
+
+list3 = [True, True, False , True, True, False]
+
+list4 = ["amin" , "abolfazl" , "mehdi"]
+
+list5 = ["apple" , "bnana" , "chery"]
+
+list6 = ["aban" , "shahrivar" , "mordad"]
+
+list7 = ["bahar" , "tabestan" , "payiz" , "zemestan"]
+
+list8 = ["ghorbani" , "mahdavi" , "masoudi"]
+
+
+
+list1.reverse()
+
+list2.reverse()
+
+list3.reverse()
+
+list4.reverse()
+
+list5.reverse()
+
+list6.reverse()
+
+list7.reverse()
+
+list8.reverse()
+
+print(list1)
+
+print(list2)
+
+print(list3)
+
+print(list4)
+
+print(list5)
+
+print(list6)
+
+print(list7)
+
+print(list8)
